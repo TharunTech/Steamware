@@ -1,0 +1,13 @@
+{
+    "manifeest_version": 2,
+    "name": "Sreamware",
+    "description": "Making ur gaming life easier",
+    "version" : "1.0",
+    "icons": {"128":"logo_128.png"},
+    "browser_action": {
+        "default_icon":"logo_19x19.png",
+        "default_popup": "popup.html"
+    },
+    "permissions"  : ["activeTab"]
+
+}
