@@ -1,0 +1,29 @@
+STEAMWARE
+created by Tharun S.M. and Shams Ahamed
+
+
+Installation:
+
+Step 1:
+Run prerequirment.bat (to install the prerequirements)
+
+Step 2:
+Run steamware.exe (application file)
+
+
+
+IF u want to change the default ide and add a default folder from which codes must execute :
+
+Step 1:
+Right click on the file "OpenVSC" from main/Batch Files
+
+Step 2:
+Click "Edit"
+
+Step 3:
+Copy the *.exe file location and replace the line 3 with "open YOUR_LOCATION "
+and change the line 2 to the folder path of ur code file
+
+Step 4:
+Save and Exit
+
